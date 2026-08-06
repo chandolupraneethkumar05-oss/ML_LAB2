@@ -1,0 +1,38 @@
+
+==============================
+Machine Learning Reproducibility Report
+==============================
+
+Dataset:
+Telco Customer Churn
+
+Random Seed:
+42
+
+Train-Test Split:
+80% Train
+20% Test
+
+Scaling:
+StandardScaler
+
+Encoding:
+Label Encoding
+
+Missing Value Handling:
+KNN Imputer / Median Imputation
+
+Duplicate Handling:
+Removed Duplicate Records
+
+Total Records:
+7043
+
+Total Features:
+20
+
+Target Variable:
+Churn
+
+Project Status:
+Dataset Ready for Model Training

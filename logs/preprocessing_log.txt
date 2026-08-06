@@ -1,0 +1,13 @@
+Machine Learning Project Initialization
+--------------------------------------
+Dataset Loaded Successfully
+Blank values converted to NaN
+Missing values handled
+Datatype corrections completed
+Categorical variables encoded
+Duplicate rows removed
+Dataset standardized using StandardScaler
+Dataset split into Train and Test sets
+Processed dataset saved
+Metadata generated
+Reports generated
